@@ -1,0 +1,4 @@
+default: --profile html_report
+html_report: --format AllureCucumber::Formatter
+authorization: --tags @authorization -p html_report
+mail: --tags @mail -p html_report

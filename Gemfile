@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+gem 'pony'
+gem 'capybara'
+gem 'site_prism'
+gem 'cucumber', '~> 2.3', '>= 2.3.3'
+gem 'allure-cucumber'
+gem 'selenium-webdriver'
+gem 'rspec'
+gem "chromedriver-helper"
+gem 'poltergeist'

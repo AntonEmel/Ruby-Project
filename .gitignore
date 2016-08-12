@@ -1,0 +1,8 @@
+*.iml
+*.iws
+*.ipr
+*.zip
+allure-report/
+gen/
+artifacts/
+.idea/
